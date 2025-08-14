@@ -135,16 +135,75 @@ Install the "mysql-5.5.62" extension. Use these settings: "Typical Setup" -> "St
 </p>
 <p>
   
-  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+
+<p>
+<img <img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/1f0368fd-f655-498f-ad77-0575dedf02b8" />
+
+
+</p>
+<p>
 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="627" height="478" alt="image" src="https://github.com/user-attachments/assets/d99981f6-b393-4ed1-a57d-a9105d10b90d" />
+
+</p>
+<p>
+
+Run IIS as administrator. Register PHP within IIS. PHP Manager -> Register new PHP, click the 3 dots -> C:\PHP\php-cgi.exe . Reload IIS by opening IIS, stopping and starting the server.
+
+</p>
+<br />
+
+<p>
+<img <img width="934" height="505" alt="image" src="https://github.com/user-attachments/assets/aa651b57-6bfe-4617-ae67-51e0b3942fed" />
+
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+<img <img width="873" height="303" alt="image" src="https://github.com/user-attachments/assets/6722a3d8-692a-4bbc-ae4e-2e0f866df715" />
+
+
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+<img <img width="621" height="259" alt="image" src="https://github.com/user-attachments/assets/28f03597-3f17-4732-9c7d-d7c2a29fe55b" />
+
+
+</p>
+<p>
+
+  </p>
+<br />
+
+<p>
+<img <img width="928" height="579" alt="image" src="https://github.com/user-attachments/assets/85c4e432-f908-49dd-b675-967aa25e68a3" />
+
+
+
+</p>
+<p>
+
+  </p>
+<br />
+
+<p>
+<img <img width="376" height="223" alt="image" src="https://github.com/user-attachments/assets/9c0f4373-cde8-44a2-80b1-8659f000b688" />
+
+
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
