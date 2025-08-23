@@ -241,8 +241,16 @@ Continue setting up osTicket in the browser. Fill in your help desk name, userna
 
 <img width="889" height="950" alt="image" src="https://github.com/user-attachments/assets/579282d9-0386-4a85-b524-df7e40639079" />
 
-From the osTicket-Install-Files folder, install HeidiSQL. Open up HeidiSQL, create a new session, filling in the credentials as root/root. Connect to the session and create a database called "osTicket".
+From the osTicket-Install-Files folder, install HeidiSQL. Open HeidiSQL, create a new session, and fill in the credentials as root/root. Connect to the session and create a database called "osTicket".
 
 <img width="856" height="358" alt="image" src="https://github.com/user-attachments/assets/3da1c23d-88e3-404e-951d-34b2fbd84405" />
+
+<img width="559" height="334" alt="image" src="https://github.com/user-attachments/assets/923096d7-017b-44bd-afd7-31a24f688b6a" />
+
+<img width="395" height="306" alt="image" src="https://github.com/user-attachments/assets/a2600bbb-a5da-4230-b7f1-34257af2d479" />
+
+<img width="400" height="405" alt="image" src="https://github.com/user-attachments/assets/c910a4fc-8bb9-4ba5-9a6c-c9a9fa665749" />
+
+
 
 
