@@ -200,24 +200,27 @@ Run IIS as administrator. Register PHP within IIS. PHP Manager -> Register new P
 <p>
 <img <img width="376" height="223" alt="image" src="https://github.com/user-attachments/assets/9c0f4373-cde8-44a2-80b1-8659f000b688" />
 
-
-
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From the osTicket Install Files folder, extract “osTicket-v1.15.8.zip", then copy the upload folder into “c:\inetpub\wwwroot”, then rename the folder "osTicket."
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1434" height="336" alt="image" src="https://github.com/user-attachments/assets/5ed5c761-ab9d-4b60-ab1f-6d3a6821f588" />
+/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now go to sites -> default web site -> osTicket, on the right side, click "Browse *:80”. You'll notice some extensions are disabled, so we need to go back and enable the ones we need.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1342" height="167" alt="image" src="https://github.com/user-attachments/assets/88f5a392-19a7-4dc1-bab1-3b0985aa7cc9" />
+
+<img <img width="400" height="487" alt="image" src="https://github.com/user-attachments/assets/26cdbfa0-130d-4ea1-a816-5c125edc94a0" />
+
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
