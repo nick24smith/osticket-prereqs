@@ -219,7 +219,7 @@ Now go to sites -> default web site -> osTicket, on the right side, click "Brows
 
 <img width="400" height="487" alt="image" src="https://github.com/user-attachments/assets/26cdbfa0-130d-4ea1-a816-5c125edc94a0" />
 
-Back on IIS on the same osTicket folder, go to PHP Manager. Scroll down and click "Enable or disable an extension" and Enable these extensions: "php_imap.dll", "php_intl.dll", and "php_opcache.dll". Then refresh the osTicket site on your browser.
+Back on IIS on the same osTicket folder, go to PHP Manager. Scroll down and click "Enable or disable an extension" and enable these extensions: "php_imap.dll", "php_intl.dll", and "php_opcache.dll". Then refresh the osTicket site on your browser.
 
 <img width="627" height="325" alt="image" src="https://github.com/user-attachments/assets/9a0865d1-5e25-4ab8-b2d2-416f3af71728" />
 
@@ -229,6 +229,8 @@ Back on IIS on the same osTicket folder, go to PHP Manager. Scroll down and clic
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Rename the "ost-sampleconfig.php" from "C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php" to "C:\inetpub\wwwroot\osTicket\include\ost-config.php
 </p>
 <br />
+
+<img width="738" height="635" alt="image" src="https://github.com/user-attachments/assets/4722616e-c429-4b48-9a92-89bd0a440b30" />
