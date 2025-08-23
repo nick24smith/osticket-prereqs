@@ -229,11 +229,20 @@ Back on IIS on the same osTicket folder, go to PHP Manager. Scroll down and clic
 
 </p>
 <p>
-Rename the "ost-sampleconfig.php" from "C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php" to "C:\inetpub\wwwroot\osTicket\include\ost-config.php". Assign permissions within ost-config.php by right clicking -> properties -> security. Then disable inheritance -> Remove All and then New Permissions -> Everyone -> All.
+Rename the "ost-sampleconfig.php" from "C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php" to "C:\inetpub\wwwroot\osTicket\include\ost-config.php". Assign permissions within ost-config.php by right-clicking -> properties -> security. Then disable inheritance -> Remove All and then New Permissions -> Everyone -> All.
 </p>
 <br />
 
 <img width="738" height="635" alt="image" src="https://github.com/user-attachments/assets/4722616e-c429-4b48-9a92-89bd0a440b30" />
 
 <img width="480" height="631" alt="image" src="https://github.com/user-attachments/assets/9579af43-9d77-40f7-8fcc-431134324466" />
+
+Continue setting up osTicket in the browser. Fill in your help desk name, username/password and your email. 
+
+<img width="889" height="950" alt="image" src="https://github.com/user-attachments/assets/579282d9-0386-4a85-b524-df7e40639079" />
+
+From the osTicket-Install-Files folder, install HeidiSQL. Open up HeidiSQL, create a new session, filling in the credentials as root/root. Connect to the session and create a database called "osTicket".
+
+<img width="856" height="358" alt="image" src="https://github.com/user-attachments/assets/3da1c23d-88e3-404e-951d-34b2fbd84405" />
+
 
