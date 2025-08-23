@@ -208,7 +208,6 @@ From the osTicket Install Files folder, extract “osTicket-v1.15.8.zip", then c
 
 <p>
 <img <img width="1434" height="336" alt="image" src="https://github.com/user-attachments/assets/5ed5c761-ab9d-4b60-ab1f-6d3a6821f588" />
-/>
 </p>
 <p>
 Now go to sites -> default web site -> osTicket, on the right side, click "Browse *:80”. You'll notice some extensions are disabled, so we need to go back and enable the ones we need.
@@ -218,8 +217,15 @@ Now go to sites -> default web site -> osTicket, on the right side, click "Brows
 <p>
 <img <img width="1342" height="167" alt="image" src="https://github.com/user-attachments/assets/88f5a392-19a7-4dc1-bab1-3b0985aa7cc9" />
 
-<img <img width="400" height="487" alt="image" src="https://github.com/user-attachments/assets/26cdbfa0-130d-4ea1-a816-5c125edc94a0" />
+<img width="400" height="487" alt="image" src="https://github.com/user-attachments/assets/26cdbfa0-130d-4ea1-a816-5c125edc94a0" />
 
+Back on IIS on the same osTicket folder, go to PHP Manager. Scroll down and click "Enable or disable an extension" and Enable these extensions: "php_imap.dll", "php_intl.dll", and "php_opcache.dll". Then refresh the osTicket site on your browser.
+
+<img width="627" height="325" alt="image" src="https://github.com/user-attachments/assets/9a0865d1-5e25-4ab8-b2d2-416f3af71728" />
+
+<img width="456" height="170" alt="image" src="https://github.com/user-attachments/assets/ea891cb7-0880-4935-adee-7b297fde330d" />
+
+<img width="345" height="272" alt="image" src="https://github.com/user-attachments/assets/3ff61fce-ac12-413b-b26e-25a57c7d7d0a" />
 
 </p>
 <p>
