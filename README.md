@@ -229,8 +229,11 @@ Back on IIS on the same osTicket folder, go to PHP Manager. Scroll down and clic
 
 </p>
 <p>
-Rename the "ost-sampleconfig.php" from "C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php" to "C:\inetpub\wwwroot\osTicket\include\ost-config.php
+Rename the "ost-sampleconfig.php" from "C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php" to "C:\inetpub\wwwroot\osTicket\include\ost-config.php". Assign permissions within ost-config.php by right clicking -> properties -> security. Then disable inheritance -> Remove All and then New Permissions -> Everyone -> All.
 </p>
 <br />
 
 <img width="738" height="635" alt="image" src="https://github.com/user-attachments/assets/4722616e-c429-4b48-9a92-89bd0a440b30" />
+
+<img width="480" height="631" alt="image" src="https://github.com/user-attachments/assets/9579af43-9d77-40f7-8fcc-431134324466" />
+
